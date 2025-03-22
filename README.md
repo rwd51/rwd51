@@ -29,7 +29,7 @@ I'm a passionate AI researcher and developer from **Bangladesh**, deeply interes
 ---
 
 ### **🌎 Let's Connect!**  
-📧 Email: [your.email@example.com]  
+📧 Email: [ruwad45678@gmail.com]  
 💼 [LinkedIn](https://www.linkedin.com/in/ruwad-naswan-612673245/) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📷 [Instagram](https://instagram.com/yourhandle)  
 💻 Competitive Programming: [Codeforces](https://codeforces.com/profile/yourhandle) | [CodeChef](https://www.codechef.com/users/yourhandle)  
 
