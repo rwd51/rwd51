@@ -8,23 +8,6 @@ I'm a passionate AI researcher and developer from **Bangladesh**, deeply interes
 
 ---
 
-### **💼 Work & Research**  
-- **Research Assistant @ BUET**  
-  - Working on **AI for Fake Report Detection**  
-  - Published research at **COLING 2025** on Bengali NLP.  
-- **AI Developer @ Robofication LLC**  
-  - Developing **LLM-powered AI solutions** for automation.  
-- **Hackathon Winner** 🏆 (Multiple National Competitions)  
-
----
-
-### **🚀 Featured Projects**
-| Project  | Description | Tech Stack |
-|----------|------------|------------|
-| **EMPATH** | AI-driven fake news detection system. | `Python` `Hugging Face` `Transformers` `Flask` |
-| **Visual Agents** | Visual AI agents for low-code automation. | `Python` `Autogen` `SmolAI` `LangChain` |
-| **Breast Cancer Detection** | Diffusion-based breast cancer detection model. | `PyTorch` `Stable Diffusion` `OpenCV` |
-
 📌 *Check out more projects on my [GitHub](https://github.com/rwd51)*  
 
 ---
