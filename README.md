@@ -1,57 +1,52 @@
-## Hey there! I'm rwd51 🚀  
-**Computer Science Undergrad | AI & ML Enthusiast | Researcher**
-
+## Hey there! I'm Ruwad Naswan 🚀  
+**Computer Science Undergrad | ML & NLP Researcher | Full-Stack Developer**
 ---
-
 ### **👨‍💻 About Me**  
-I'm a passionate AI researcher and developer from **Bangladesh**, deeply interested in **NLP, Computer Vision, and AI Agents**. I love transforming abstract ideas into functional code, contributing to open-source, and tackling challenging AI problems.
-
+I'm a Computer Science student at Bangladesh University of Engineering and Technology (BUET), passionate about machine learning, natural language processing, and building scalable systems. I enjoy working on projects that bridge technology and cultural preservation, particularly in Bengali language technologies.
 ---
-
 ### **💼 Work & Research**  
-- **Research Assistant @ BUET**  
-  - Working on **AI for Fake Report Detection**  
-  - Published research at **COLING 2025** on Bengali NLP.  
-- **AI Developer @ Robofication LLC**  
-  - Developing **LLM-powered AI solutions** for automation.  
-- **Hackathon Winner** 🏆 (Multiple National Competitions)  
-
+- **Research Assistant @ Bengali.AI** (Nov 2023 - Present)  
+  - Core team member developing **Ben-10**, a comprehensive 78+ hour Bengali speech dataset
+  - Working with regional dialects from 12 districts of Bangladesh
+  - Research findings under review at **Interspeech 2025**
+- **Published Research at COLING 2025** on low-resource Bengali LLMs
 ---
-
 ### **🚀 Featured Projects**
-| Project  | Description | Tech Stack |
-|----------|------------|------------|
-| **EMPATH** | AI-driven fake news detection system. | `Python` `Hugging Face` `Transformers` `Flask` |
-| **Visual Agents** | Visual AI agents for low-code automation. | `Python` `Autogen` `SmolAI` `LangChain` |
-| **Breast Cancer Detection** | Diffusion-based breast cancer detection model. | `PyTorch` `Stable Diffusion` `OpenCV` |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **CodeSprout** | Block-based learning app with AI-powered block generation and adaptive chatbot | `Spring Boot` `MongoDB` `Azure DevOps` `LangChain` `RAG` |
+| **Online Train Ticket Booking System** | Microservices-based system for Bangladesh Railway to handle high traffic during peak ticket sales | `NodeJS` `PostgreSQL` `Redis` `k6` `Kubernetes` `Docker` `GitHub Actions` |
+| **BanglaMate** | App bridging Banglish to authentic Bangla with translation, bilingual chatbot, and content creation | `FastAPI` `LangChain` `GraphQL` `PostgreSQL` `Firebase` |
 
-📌 *Check out more projects on my [GitHub](https://github.com/rwd51)*  
-
+📌 *Project highlights: Finalist at Therap JavaFest 2024 with CodeSprout*
 ---
-
-### **🛠️ Skills & Tools**  
-`Python` `C++` `JavaScript` `React` `Django` `Flask` `PyTorch` `TensorFlow` `Linux`  
-`Hugging Face` `LangChain` `Autogen` `Docker` `FastAPI` `GraphQL`  
-
+### **🏆 Competitions & Achievements**  
+- 🥉 **2nd Runner Up** - BUET CSE Fest 2024 Hackathon (competed among 200+ teams)
+- 🏅 **Top 10 Finalist** - Therap JavaFest 2024 (selected from 1300+ participants)
+- 🏅 **Top 10 Finalist** - Bitfest 2025 Datathon (ranked among 100+ teams from 30+ universities)
+- 🏅 **10th Place** - CodeSamurai Hackathon by University of Dhaka and BJIT
 ---
-
-### **📊 GitHub Stats & Trophies**  
-<img src="https://github-readme-stats.vercel.app/api?username=rwd51&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-
-<img src="https://github-profile-trophy.vercel.app/?username=rwd51&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />  
-
-🔥 **GitHub Streak:**  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rwd51&theme=tokyonight" alt="GitHub Streak" />
-
+### **🛠️ Technical Skills**  
+**Languages:** `Python` `Java` `C` `C++` `JavaScript`  
+**ML Libraries:** `PyTorch` `Keras` `TensorFlow` `Transformers` `Scikit-learn` `Pandas` `OpenCV` `NumPy` `Matplotlib`  
+**Frameworks/Tools:** `Spring Boot` `React` `Django` `NodeJS` `FastAPI` `Azure DevOps` `AWS` `Git` `Docker` `Jenkins` `k6` `Jest` `JUnit` `Grafana`  
+**Databases:** `PostgreSQL` `MongoDB` `GraphQL` `Redis`
 ---
-
+### **📚 Education**  
+- **B.Sc in Computer Science and Engineering** (Nov 2022 - Present)  
+  Bangladesh University of Engineering and Technology, Dhaka
+- **Higher Secondary Certificate (HSC)** (July 2019 - Dec 2021)  
+  Notre Dame College, Dhaka
+---
+### **📝 Publications**  
+- **Too Late to Train, Too Early To Use? A Study on Necessity and Viability of Low-Resource Bengali LLMs**  
+  COLING 2025. Tamzeed Mahfuz, Satak Kumar Dey, Ruwad Naswan, Hasnaen Adil, Khondker Salman Sayeed, Haz Sameen Shahgir.
+---
 ### **🌎 Let's Connect!**  
-📧 Email: [your.email@example.com]  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📷 [Instagram](https://instagram.com/yourhandle)  
-💻 Competitive Programming: [Codeforces](https://codeforces.com/profile/yourhandle) | [CodeChef](https://www.codechef.com/users/yourhandle)  
-
-🚀 *Let’s build the future together! Feel free to reach out for collaboration!*  
+📧 Email: [ruwad45678@gmail.com](mailto:ruwad45678@gmail.com)  
+📱 Phone: +8801639317127  
+💼 [LinkedIn](https://linkedin.com/in/ruwad-naswan-612673245)  
+📍 Dhaka, Bangladesh
 ---
-
 ### **👀 Visitor Count**  
-<img src="https://komarev.com/ghpvc/?username=rwd51&label=Profile%20Views&color=blue&style=plastic" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=ruwad-naswan&label=Profile%20Views&color=blue&style=plastic" alt="Visitor Count" />
